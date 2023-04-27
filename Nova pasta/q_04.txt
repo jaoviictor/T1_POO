@@ -1,0 +1,26 @@
+package q_04;
+import java.util.Scanner;
+public class principal {
+
+	public static void main(String[] args) {
+		
+		Scanner nota = new Scanner(System.in);
+		 double nota1 ;
+		 double nota2 ;
+
+		 System.out.println(" Digite sua primeira nota ");
+		 nota1 = nota.nextDouble();
+		 
+		 System.out.println(" Digite sua segunda nota ");
+		 nota2 = nota.nextDouble();
+		 
+		
+		 
+		 double media ;
+		 media= ( nota1 * 2 / nota2 *3 );
+		 System.out.println("Sua media é " + media );
+		 
+		 
+	}
+
+}
