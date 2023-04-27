@@ -1,0 +1,26 @@
+package sal;
+import java.util.Scanner;
+public class salario {
+
+	public static void main(String[] args) {
+		 Scanner sl = new Scanner(System.in);
+		 
+		 double salario;
+		 System.out.print(" Insira o valor do seu salrio do mes  ");
+		 salario = sl.nextFloat();
+		 
+		 double grat ;
+		 grat = ( salario * 5)/100;
+		 
+		 double imp ;
+		 imp = ( salario * 7 )/100;
+		 
+		 double salreceber;
+		 salreceber = ( salario + grat - imp );
+		 System.out.print( "Salari á receber" + salreceber );
+		 
+		 
+
+	}
+
+}
