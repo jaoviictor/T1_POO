@@ -8,7 +8,7 @@ Questão Resolvidas e Proprostas
 João Victor Pereira Celestino
 
 # Curso
- T.I Em Informática
+ T.I Em Informática 
 
 # Período 
   P3
