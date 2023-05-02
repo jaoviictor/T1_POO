@@ -1,4 +1,4 @@
-# T1 POO
+# 📌 T1 POO
 
 Primeiro Trabalho de POO
 
@@ -16,7 +16,7 @@ João Victor Pereira Celestino
 # Professor
 Roger Moura Sarmento
 
-#Liguagem utilizada
+# Liguagem utilizada
 Java 
 
 
